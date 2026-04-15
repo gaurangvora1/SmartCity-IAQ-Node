@@ -4,8 +4,8 @@
 **Institution:** Vellore Institute of Technology (VIT), Vellore
 
 ## 👥 Team Members
-* **Goyal Eklavya Shyam Sunder (24BCE0743)** - *Team Leader* (System Architecture, Node.js Backend, Paper Documentation)
-* **Vora Gaurang Himanshu (24BCE0722)** - *Team Member* (Arduino Firmware, Hardware Integration, React.js Frontend, Testing)
+* **Goyal Eklavya Shyam Sunder (24BCE0743)** (https://github.com/EklavyaGoyal17) - *Team Leader* (System Architecture, Node.js Backend, Paper Documentation)
+* **Vora Gaurang Himanshu (24BCE0722)** (https://github.com/gaurangvora1) - *Team Member* (Arduino Firmware, Hardware Integration, React.js Frontend, Testing)
 
 ---
 
